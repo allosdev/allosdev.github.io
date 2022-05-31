@@ -1,0 +1,13 @@
+# Операционные системы
+- [Linux]()
+- [Windows]()
+- [ReactOS]()
+- [KolibriOS]()
+- [MinuetOS]()
+- [A2]()
+- [EOS]()
+- [xOS]()
+- [IOS]()
+- [MacOS]()
+- [MS DOS]()
+- [FreeDOS]()
