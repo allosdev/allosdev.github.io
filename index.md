@@ -1,6 +1,6 @@
 # Операционные системы
 [Группа ВКонтакте](https://vk.com/allosdev)
-- [Linux]()
+- [Linux](#linux)
 - [Windows]()
 - [ReactOS]()
 - [KolibriOS]()
