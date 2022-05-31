@@ -1,4 +1,5 @@
 # Операционные системы
+[Группа ВКонтакте](https://vk.com/allosdev)
 - [Linux]()
 - [Windows]()
 - [ReactOS]()
